@@ -9,7 +9,7 @@ public class Main {
 
         b.add(new Carte("Invitatie la vals", "Mihail Drumes", 1910, 250));
         b.add(new Carte("Amintiri din copilarie", "Ion Creanga", 1880, 80));
-
+        b.add(new Carte("Moromeii","Marin Preda",1934,400));
         b.add(new Carte("Moara cu noroc", "Ioan Slavici", 1890, 120));
 
         b.sort();
